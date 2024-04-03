@@ -1,0 +1,36 @@
+.footer {
+    background-color: #111;
+    color: #757575;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer-column {
+    flex: 1;
+    padding-top: 120px;
+    width: 100%;
+  }
+  
+  .footer-column table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .footer-column td {
+    padding: 5px;
+  }
+  
+  .footer-column a {
+    color: #757575;
+    text-decoration: none;
+  }
+  
+  .disclaimer {
+    font-size: 12px;
+  }
+  
