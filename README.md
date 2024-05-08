@@ -6,12 +6,7 @@
 
 This is a Netflix clone application built using ReactJS and TMDB API to fetch movie data. It aims to replicate the user experience of the popular streaming service Netflix, allowing users to browse, search, and view details of various movies and TV shows.
 
-## Features
 
-- **User Authentication**: Users can create accounts, log in, and log out securely.
-- **Browse Movies and TV Shows**: Users can browse through a vast collection of movies and TV shows available on the platform.
-- **Search Functionality**: Users can search for specific movies or TV shows by title.
-- **Detailed Information**: Users can view detailed information about each movie or TV show, including synopsis, ratings, cast, and trailers.
 - **Responsive Design**: The application is designed to be responsive and work seamlessly across various devices and screen sizes.
 
 
