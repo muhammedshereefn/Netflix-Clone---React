@@ -2,7 +2,7 @@
 
 # Netflix Clone Application
 
-![Netflix Clone Logo](link_to_logo_image)
+![Netflix Clone Logo]([link_to_logo_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dnetflix&psig=AOvVaw1XVicmHbJXds-Utp6vCxXl&ust=1715225557738000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC33KOP_YUDFQAAAAAdAAAAABAE))
 
 ## Overview
 
