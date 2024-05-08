@@ -2,8 +2,6 @@
 
 # Netflix Clone Application
 
-![Netflix Clone Logo]([link_to_logo_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dnetflix&psig=AOvVaw1XVicmHbJXds-Utp6vCxXl&ust=1715225557738000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC33KOP_YUDFQAAAAAdAAAAABAE))
-
 ## Overview
 
 This is a Netflix clone application built using ReactJS and TMDB API to fetch movie data. It aims to replicate the user experience of the popular streaming service Netflix, allowing users to browse, search, and view details of various movies and TV shows.
@@ -60,13 +58,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshots
 
-(Insert screenshots here)
+![Screenshot (119)](https://github.com/muhammedshereefn/Netflix-Clone---React/assets/126606666/fe1834f0-791d-4c2b-9559-bf32e2303165)
+![Screenshot (120)](https://github.com/muhammedshereefn/Netflix-Clone---React/assets/126606666/f0f0170c-a123-4886-ac2f-4755f168b90d)
+![Screenshot (121)](https://github.com/muhammedshereefn/Netflix-Clone---React/assets/126606666/72a4f03d-04fe-49bc-ac9a-ff0c0cd2f800)
 
-## Demo
 
-(Insert link to live demo)
 
 ## Contact
 
-For any inquiries or feedback, please contact [your_email@example.com](mailto:your_email@example.com).
+For any inquiries or feedback, please contact [muhammedshereefshaz@gmail.com](mailto:muhammedshereefshaz).
 
