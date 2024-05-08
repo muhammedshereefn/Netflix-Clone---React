@@ -38,15 +38,14 @@ This is a Netflix clone application built using ReactJS and TMDB API to fetch mo
    npm install
    ```
 
-3. Get an API key from [TMDB](https://www.themoviedb.org/documentation/api) and replace `YOUR_API_KEY` in `src/config.js` with your actual API key.
 
-4. Start the development server:
+3. Start the development server:
 
    ```bash
    npm start
    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
 ## Contributing
 
